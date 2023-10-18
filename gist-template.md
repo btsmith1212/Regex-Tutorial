@@ -46,4 +46,5 @@ No lazy matches are used in this regex.
 
 ## Author
 
-Blake Smith https://github.com/btsmith1212
+Blake Smith 
+https://github.com/btsmith1212
